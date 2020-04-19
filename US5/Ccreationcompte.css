@@ -1,0 +1,123 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.header {
+    background-color: black;
+    height: 100px;
+}
+
+.logo {
+    background-image: url("logo-QuizzSA.png");
+    background-size: cover;
+    height: 30px;
+    width: 2%;
+    margin-left: 30px;
+    background-repeat: no-repeat;
+}
+
+.content {
+    background-image: url("img-bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 650px;
+}
+
+.header-text {
+    color: white;
+    position: absolute;
+    top: 25px;
+    left: 35%;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.container {
+    position: relative;
+    top: 25%;
+    bottom: 600px;
+    left: 30%;
+    height: 40%;
+    width: 40%;
+    background-color: gainsboro;
+}
+
+.container-header {
+    height: 100px;
+    background-color: darkturquoise;
+}
+
+.title {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 40px;
+}
+
+.liste {
+    background-color: darkturquoise;
+    height: 100px;
+    width: 200px;
+    position: relative;
+    top: 5px;
+}
+
+.noms {
+    background-color: gainsboro;
+    border: 6px 1px 1px 1px;
+    border-color: gray;
+    height: 390px;
+    width: 260px;
+    position: relative;
+    left: 250px;
+    bottom: 95px;
+    color: white;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.btn-form {
+    margin-top: 20px;
+    height: 30px;
+    padding: 10px;
+    color: white;
+    background-color: darkcyan;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 5px;
+    border: 1px solid darkturquoise;
+    position: relative;
+    bottom: 560px;
+    left: 350px;
+}
+
+.listescore {
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: initial;
+}
+
+.Questions {
+    background-color: gainsboro;
+    position: relative;
+    right: 250px;
+    bottom: 350px;
+    width: 200px;
+    top: -90px;
+}
+
+.btn-suiv {
+    margin-top: 20px;
+    height: 30px;
+    padding: 10px;
+    color: white;
+    background-color: darkcyan;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 5px;
+    border: 1px solid darkturquoise;
+    position: relative;
+    top: -100px;
+    left: 350px;
+}
