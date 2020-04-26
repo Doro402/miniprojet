@@ -1,4 +1,3 @@
-
 <?php
 $errorlogin=$errorpassword=$errormessage='';
 
@@ -44,10 +43,11 @@ if (isset($_POST['connexion']))
     {
         $errorMessage='Veuillez saisir vos identifiants svp ! ';
         
-    }
+         }
   
 
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
