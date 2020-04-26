@@ -1,0 +1,9 @@
+[
+    { "login": "admin1", "password": "pass", "prenom": "Doro", "nom": "Niasse", "role": "admin", "image": "avatar.png" },
+    { "login": "jou2", "password": "passer", "prenom": "Ousaynou", "nom": "niang", "role": "joueuer", "image": "weuz.jpg", "score": "10" },
+
+    { "login": "s", "password": "s", "prenom": "Lamin", "nom": "Gueye", "role": "joueur", "image": "YHWR2388.JPG", "score": "300" },
+    { "login": "s", "password": "s", "prenom": "Moustapha", "nom": "Fall", "role": "joueur", "image": "YHWR2388.JPG", "score": "300" },
+    { "login": "s", "password": "s", "prenom": "Abdoulay", "nom": "Thiam", "role": "joueur", "image": "YHWR2388.JPG", "score": "300" }
+
+]
